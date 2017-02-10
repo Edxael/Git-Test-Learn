@@ -1,0 +1,22 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+
+img {
+    margin:0px auto;
+    display:block;
+}
+
+figcaption {
+    margin:0px auto;
+    display:block;
+}
